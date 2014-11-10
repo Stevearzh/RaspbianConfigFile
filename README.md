@@ -6,6 +6,8 @@ Some app config files for Raspbian/Debian, better compare to default config file
 ### Path ###
 > /etc/apache2/apache2.conf
 
+> /etc/mysql/my.cnf
+
 > /etc/php5/apache2/php.ini
 
 > /etc/vsftpd.cong
